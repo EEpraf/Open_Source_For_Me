@@ -12,3 +12,6 @@ def mul(a, b):
 #Divide
 def div_main(a, b):
     return a / b
+
+def mix(a, b, c):
+    return a + b - c
